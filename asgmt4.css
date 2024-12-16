@@ -1,0 +1,99 @@
+.cont1{
+    background-image: url(https://img.freepik.com/premium-photo/fast-food-unhealthy-eating-concept-close-up-fast-food-snacks-cola-drink-wooden-table-generative-ai_208978-1520.jpg);
+    position: relative;
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.sub1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    
+
+}
+.sub2{
+    text-align: center;
+    color: white;
+    margin-top: 80px;
+}
+.dropdown{
+    align-items: center;
+    margin-left: 500px;
+
+}
+#loc{
+    margin-right: 400px;
+}
+#btn{
+    margin-left: 495px;
+    margin-top: 15px;
+    height: 20px;
+    width: 525px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-color: gray;
+}
+#rest{
+    text-align: center;
+    font-size:medium;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.container{
+    margin-top: 40px;
+}
+.container2{
+    margin-top: 40px;
+}
+.cont4{
+    
+    margin-top: 60px;
+    display: flex;
+    margin-left: 400px;
+  
+}
+#img1{
+    height: 300px;
+    width: 300px;
+}
+.txt{
+    text-align: right;
+}
+.inp{
+    margin-right: 40px;
+
+}
+.img{
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    padding: 0px;
+
+   
+}
+.cont5{
+    margin-left: 730px;
+    }
+
+
+.icon{
+    align-items: center;
+    display: inline-block;
+    height: 200px;
+    width: 50px;
+    
+    
+  
+}
+.explore{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 1200px;
+    
+ 
+}
